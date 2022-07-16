@@ -1,0 +1,119 @@
+body {
+  font: 16px/28px arial, sans-serif;
+  background-color: #87805e;
+  color: #2c3639;
+}
+.container {
+  margin: auto;
+  background-color: #b09b71;
+  background-image: url(pexels-cottonbro-5095281.jpg);
+}
+.titlehilal {
+  padding: 20px;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+.titlehilal h1 {
+  font-size: 40px;
+  font-weight: bold;
+  /* Navbar*/
+}
+li {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+a {
+  text-decoration: none;
+  color: #2c3639;
+  padding: 3px;
+}
+a:hover {
+  background-color: skyblue;
+  color: white;
+}
+.hero {
+  height: 800px;
+  background-image: url(asset/image/background\ woods.jpg);
+  background-size: cover;
+}
+main {
+  overflow: auto;
+}
+/* Bagian Content*/
+.content {
+  padding: 20px;
+  box-sizing: border-box;
+  width: 70%;
+  float: left;
+  margin-top: 30px;
+  overflow: auto;
+  background-color: #d8cca3;
+}
+.content h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+.content p {
+  font-size: 11px;
+  margin-top: -25px;
+}
+p.jati1 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.jati2 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.jati3 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+ol {
+  font-size: 14px;
+  text-align: left;
+  margin-top: -30px;
+}
+/* Bagian Footer*/
+
+.copy {
+  background-color: darkslategrey;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+aside {
+  float: right;
+  width: 30%;
+  margin-right: -10px;
+  text-align: left;
+}
+
+img {
+  height: 200px;
+}
+p.mahoni1 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.mahoni2 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.mahoni3 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.mahoni4 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.mahoni5 {
+  margin-top: 10px;
+  font-size: 14px;
+}
+p.mahoni6 {
+  margin-top: 10px;
+  font-size: 14px;
+}
